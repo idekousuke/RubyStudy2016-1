@@ -1,1 +1,0 @@
-puts "hai dep trai"
